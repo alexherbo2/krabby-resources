@@ -7,5 +7,6 @@
 [![Playing videos in picture-in-picture mode](https://img.youtube.com/vi_webp/zgSx1AE6pig/maxresdefault.webp)](https://youtu.be/zgSx1AE6pig)
 [![Opening links in a paragraph](https://img.youtube.com/vi_webp/v2Jvk1rhIlc/maxresdefault.webp)](https://youtu.be/v2Jvk1rhIlc)
 [![Play videos with mpv](https://img.youtube.com/vi_webp/gYTi-eXuWdI/maxresdefault.webp)](https://youtu.be/gYTi-eXuWdI)
+[![Copy selection with Pandoc](https://img.youtube.com/vi_webp/gmx3eEm6L3M/maxresdefault.webp)](https://youtu.be/gmx3eEm6L3M)
 
 [Krabby]: https://krabby.netlify.com
