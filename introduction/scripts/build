@@ -1,3 +1,4 @@
 #!/bin/sh
 
-ffmpeg -i kdenlive/2020-05-25_10:36:39.webm -i subs/2020-05-25_10:36:39.vtt -map 0 -codec:v copy -codec:a copy -map 1 -codec:s webvtt 2020-05-25_10:36:39.webm
+filename=2020-05-25_10:36:39
+ffmpeg -i "kdenlive/$filename.webm" -i "subs/$filename.vtt" -map 0 -codec:v copy -codec:a copy -map 1 -codec:s webvtt "$filename.webm"
