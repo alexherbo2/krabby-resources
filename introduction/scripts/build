@@ -1,4 +1,4 @@
 #!/bin/sh
 
-filename=2020-06-05_09:38:48
-ffmpeg -i "kdenlive/$filename.webm" -i "subs/$filename.vtt" -map 0 -codec:v copy -codec:a copy -map 1 -codec:s webvtt -disposition:s:0 default "$filename.webm"
+filename=2020-06-13_11:04:56
+ffmpeg -i "kdenlive/$filename.webm" -i "subs/$filename.vtt" -map 0 -codec:v copy -codec:a copy -map 1 -codec:s webvtt "$filename.webm"
